@@ -1,0 +1,31 @@
+{
+  "n_matches": 112,
+  "n_train": 56,
+  "n_test": 56,
+  "split_date": "2024-09-26",
+  "home_log_advantage": 0.1335,
+  "home_goal_multiplier": 1.1429,
+  "dixon_coles_rho": -0.1048,
+  "rho_at_search_boundary": false,
+  "train_scoreline_log_loss_independent": 2.8726,
+  "train_scoreline_log_loss_dc": 2.8698,
+  "test_scoreline_log_loss_independent": 3.1988,
+  "test_scoreline_log_loss_dc": 3.2202,
+  "test_outcome_independent": {
+    "log_loss": 1.0094,
+    "brier": 0.6037,
+    "accuracy": 0.5179
+  },
+  "test_outcome_dc": {
+    "log_loss": 1.0282,
+    "brier": 0.6134,
+    "accuracy": 0.5179
+  },
+  "test_outcome_empirical_baseline": {
+    "log_loss": 1.0723,
+    "brier": 0.6492,
+    "accuracy": 0.4464
+  },
+  "top_attack": "Dunwich",
+  "lowest_conceding_effect": "Cedar United"
+}

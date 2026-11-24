@@ -1,0 +1,113 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+2024-08-01,Cedar United,Dunwich,1,1,D
+2024-08-02,Foxbridge,Harbour Town,3,0,H
+2024-08-03,Elm City,Foxbridge,1,0,H
+2024-08-04,Cedar United,Elm City,3,0,H
+2024-08-05,Briar FC,Glen Athletic,1,1,D
+2024-08-06,Foxbridge,Ashford,1,1,D
+2024-08-07,Ashford,Elm City,3,2,H
+2024-08-08,Glen Athletic,Harbour Town,0,1,A
+2024-08-09,Elm City,Cedar United,1,2,A
+2024-08-10,Harbour Town,Ashford,1,3,A
+2024-08-11,Harbour Town,Dunwich,0,1,A
+2024-08-12,Cedar United,Foxbridge,2,2,D
+2024-08-13,Ashford,Harbour Town,2,1,H
+2024-08-14,Briar FC,Cedar United,2,2,D
+2024-08-15,Briar FC,Dunwich,1,1,D
+2024-08-16,Ashford,Glen Athletic,2,0,H
+2024-08-17,Harbour Town,Briar FC,1,1,D
+2024-08-18,Glen Athletic,Dunwich,1,1,D
+2024-08-19,Dunwich,Foxbridge,2,1,H
+2024-08-20,Harbour Town,Cedar United,1,1,D
+2024-08-21,Briar FC,Foxbridge,1,2,A
+2024-08-22,Cedar United,Glen Athletic,0,0,D
+2024-08-23,Harbour Town,Foxbridge,2,0,H
+2024-08-24,Elm City,Briar FC,2,0,H
+2024-08-25,Ashford,Cedar United,1,3,A
+2024-08-26,Dunwich,Ashford,2,1,H
+2024-08-27,Glen Athletic,Briar FC,0,1,A
+2024-08-28,Briar FC,Elm City,4,3,H
+2024-08-29,Harbour Town,Elm City,5,0,H
+2024-08-30,Glen Athletic,Cedar United,0,0,D
+2024-08-31,Dunwich,Harbour Town,1,0,H
+2024-09-01,Ashford,Dunwich,2,5,A
+2024-09-02,Foxbridge,Briar FC,1,1,D
+2024-09-03,Dunwich,Briar FC,2,1,H
+2024-09-04,Elm City,Glen Athletic,1,1,D
+2024-09-05,Ashford,Briar FC,3,5,A
+2024-09-06,Foxbridge,Dunwich,3,2,H
+2024-09-07,Dunwich,Elm City,4,0,H
+2024-09-08,Cedar United,Harbour Town,2,0,H
+2024-09-09,Briar FC,Harbour Town,0,3,A
+2024-09-10,Elm City,Harbour Town,3,3,D
+2024-09-11,Cedar United,Briar FC,0,0,D
+2024-09-12,Cedar United,Ashford,1,2,A
+2024-09-13,Dunwich,Cedar United,1,0,H
+2024-09-14,Glen Athletic,Foxbridge,1,3,A
+2024-09-15,Glen Athletic,Elm City,1,2,A
+2024-09-16,Elm City,Ashford,0,2,A
+2024-09-17,Foxbridge,Glen Athletic,0,0,D
+2024-09-18,Briar FC,Ashford,3,1,H
+2024-09-19,Dunwich,Glen Athletic,1,3,A
+2024-09-20,Elm City,Dunwich,1,3,A
+2024-09-21,Foxbridge,Cedar United,1,2,A
+2024-09-22,Harbour Town,Glen Athletic,2,3,A
+2024-09-23,Foxbridge,Elm City,3,3,D
+2024-09-24,Ashford,Foxbridge,1,0,H
+2024-09-25,Glen Athletic,Ashford,4,0,H
+2024-09-26,Harbour Town,Elm City,0,2,A
+2024-09-27,Harbour Town,Ashford,2,0,H
+2024-09-28,Elm City,Harbour Town,2,1,H
+2024-09-29,Elm City,Dunwich,2,3,A
+2024-09-30,Elm City,Ashford,1,2,A
+2024-10-01,Glen Athletic,Elm City,2,1,H
+2024-10-02,Cedar United,Ashford,2,4,A
+2024-10-03,Harbour Town,Dunwich,1,0,H
+2024-10-04,Ashford,Elm City,1,0,H
+2024-10-05,Briar FC,Elm City,2,0,H
+2024-10-06,Dunwich,Harbour Town,4,1,H
+2024-10-07,Elm City,Glen Athletic,0,4,A
+2024-10-08,Cedar United,Glen Athletic,0,1,A
+2024-10-09,Cedar United,Dunwich,1,1,D
+2024-10-10,Glen Athletic,Foxbridge,0,0,D
+2024-10-11,Foxbridge,Harbour Town,0,2,A
+2024-10-12,Foxbridge,Glen Athletic,3,1,H
+2024-10-13,Cedar United,Harbour Town,1,0,H
+2024-10-14,Ashford,Glen Athletic,2,3,A
+2024-10-15,Foxbridge,Ashford,1,0,H
+2024-10-16,Briar FC,Foxbridge,2,2,D
+2024-10-17,Briar FC,Ashford,1,1,D
+2024-10-18,Foxbridge,Briar FC,2,3,A
+2024-10-19,Briar FC,Dunwich,1,2,A
+2024-10-20,Harbour Town,Briar FC,0,2,A
+2024-10-21,Dunwich,Foxbridge,2,1,H
+2024-10-22,Elm City,Foxbridge,1,2,A
+2024-10-23,Glen Athletic,Harbour Town,1,0,H
+2024-10-24,Glen Athletic,Briar FC,0,4,A
+2024-10-25,Briar FC,Harbour Town,3,0,H
+2024-10-26,Ashford,Harbour Town,1,2,A
+2024-10-27,Ashford,Briar FC,0,2,A
+2024-10-28,Briar FC,Glen Athletic,5,1,H
+2024-10-29,Briar FC,Cedar United,0,0,D
+2024-10-30,Dunwich,Ashford,0,3,A
+2024-10-31,Foxbridge,Elm City,1,2,A
+2024-11-01,Foxbridge,Cedar United,0,2,A
+2024-11-02,Cedar United,Briar FC,1,2,A
+2024-11-03,Dunwich,Elm City,2,1,H
+2024-11-04,Cedar United,Foxbridge,4,1,H
+2024-11-05,Glen Athletic,Cedar United,3,2,H
+2024-11-06,Ashford,Foxbridge,0,1,A
+2024-11-07,Harbour Town,Foxbridge,2,1,H
+2024-11-08,Harbour Town,Glen Athletic,0,1,A
+2024-11-09,Harbour Town,Cedar United,2,1,H
+2024-11-10,Dunwich,Cedar United,1,0,H
+2024-11-11,Dunwich,Briar FC,2,3,A
+2024-11-12,Ashford,Cedar United,3,1,H
+2024-11-13,Elm City,Briar FC,3,2,H
+2024-11-14,Glen Athletic,Dunwich,3,4,A
+2024-11-15,Glen Athletic,Ashford,1,0,H
+2024-11-16,Dunwich,Glen Athletic,2,1,H
+2024-11-17,Elm City,Cedar United,2,2,D
+2024-11-18,Ashford,Dunwich,0,1,A
+2024-11-19,Cedar United,Elm City,3,0,H
+2024-11-20,Foxbridge,Dunwich,0,3,A

@@ -1,0 +1,46 @@
+{
+  "train56_rho-0.12": {
+    "n_worlds": 30,
+    "n_train": 56,
+    "n_test": 56,
+    "truth_rho": -0.12,
+    "median_fitted_rho": -0.168,
+    "median_train_nll_gain": 0.0083,
+    "median_test_nll_gain": -0.00216,
+    "dc_better_test_fraction": 0.4,
+    "boundary_fraction": 0.467
+  },
+  "train56_rho+0.00": {
+    "n_worlds": 30,
+    "n_train": 56,
+    "n_test": 56,
+    "truth_rho": 0.0,
+    "median_fitted_rho": -0.0545,
+    "median_train_nll_gain": 0.00469,
+    "median_test_nll_gain": -0.00886,
+    "dc_better_test_fraction": 0.267,
+    "boundary_fraction": 0.4
+  },
+  "train224_rho-0.12": {
+    "n_worlds": 30,
+    "n_train": 224,
+    "n_test": 224,
+    "truth_rho": -0.12,
+    "median_fitted_rho": -0.1368,
+    "median_train_nll_gain": 0.00551,
+    "median_test_nll_gain": 0.00332,
+    "dc_better_test_fraction": 0.633,
+    "boundary_fraction": 0.233
+  },
+  "train224_rho+0.00": {
+    "n_worlds": 30,
+    "n_train": 224,
+    "n_test": 224,
+    "truth_rho": 0.0,
+    "median_fitted_rho": -0.0268,
+    "median_train_nll_gain": 0.00129,
+    "median_test_nll_gain": -0.00176,
+    "dc_better_test_fraction": 0.4,
+    "boundary_fraction": 0.067
+  }
+}
