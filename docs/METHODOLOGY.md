@@ -108,3 +108,15 @@ The v0.4 pass changed several claims:
 ## 11. What would strengthen this next
 
 A serious empirical extension would use multiple historical seasons with a predeclared rolling protocol, promoted-team priors and time decay, then compare independent Poisson, Dixon–Coles and richer xG/event models on future seasons. Any bookmaker comparison should pin the exact odds timestamp/source and remain strictly out of sample.
+
+## Notes moved from the README
+
+The retired comparison of -4.209 against -4.221 came from fitting and scoring the Dixon-Coles correction on the same 15 rows. Because rho is an extra fitted parameter, a small in-sample likelihood gain is not evidence of better prediction on new matches. The original repository also used an iterative strength-scaling heuristic, which v0.4 replaced with a maximum-likelihood attack/defence model and a chronological hold-out.
+
+The earlier portfolio version of the sample mixed real-looking 2024/25 fixtures with a description that called the sample invented. data/sample/sample_matches.csv is now fully synthetic (invented clubs, simulated scores, no real odds) and can be regenerated with `python src/synthetic_data.py --seed 2026 --cycles 2 --rho -0.07`.
+
+Odds handling: when closing Bet365 odds (B365CH, B365CD, B365CA) are present they are used in preference to B365H, B365D and B365A, and inverse odds are normalised row by row to remove the overround before log loss or Brier score is computed. The FBref scraper picks a table by its Date/Home/Away/Score columns, sends a descriptive user agent and supports a delay. Check FBref's robots.txt and terms before running it.
+
+Standings are ordered by points, goal difference and goals scored. Teams equal on all three share a rank. The table does not implement the Premier League's extra rules for rare unresolved cases.
+
+The 112-match synthetic example, with 56 fitting matches, has a Dixon-Coles correction that improves training fit and worsens held-out scoreline log loss (3.2202 against 3.1988 for independent Poisson). The robustness study shows when the correction helps: with true rho of 0, the median held-out effect is negative at both 56 and 224 training matches. With true rho of -0.12, 56 training matches are too noisy for a reliable gain, while 224 give a median fitted rho of -0.137 and a positive median held-out effect. These are simulations about model complexity, not claims about the Premier League.
